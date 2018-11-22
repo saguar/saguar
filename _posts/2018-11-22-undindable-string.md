@@ -5,27 +5,19 @@ gh-repo: saguar/saguar-blog-code
 tags: [binding, development, immutable, issue, mvvm, problem, string, UWP, wpf, xaml]
 ---
 
-##Prologue
+## Prologue
 
 Few days ago I was working on a simple WPF application using all the best practices I’ve learned during these years: 
 <ul>
-  <li>
-    Singleton
-  </li>
-    Code grouping
-  <li>
-    Inversion of Control
-  </li>
-  <li>
-    Mvvm pattern
-  </li>
-  <li>
-    Properties binding
-  </li>
+    <li>Singleton</li>
+    <li>Code grouping</li>
+    <li>Inversion of Control</li>
+    <li>Mvvm pattern</li>
+    <li>Properties binding</li>
 </ul>
 but at some point I faced with an issue that made me crazy! 
 
-##The problem
+## The problem
 
 In my simple application I had to load a list of words from a file and then show them into a simple list, giving the possibility to the user to change one of these words by clicking a “Edit” button. I know… You are thinking “come on! this is the simplest exercise I’ve ever done using Mvvm Pattern! What’s wrong with this?” Okay, let me explain it showing you some screenshots: This is the code I wrote in XAML page for the list 
  
@@ -42,8 +34,8 @@ My first thoughts:
 
 So I started debugging the View Model initialization to be sure that the ObservableCollection was correctly instantiated and then I checked in the View’s code behind that the DataContext property was correctly setted. All was fine… To be sure about the binding process I decided to remove the Mode=TwoWay from the Binding definition, just to see if the values were at least showed in read-only mode.
 
-##Eureka!
+## Eureka!
 
-##The Solution
+## The Solution
 
-##Conclusion
+## Conclusion
