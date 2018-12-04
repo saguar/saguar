@@ -24,7 +24,8 @@ description: Tricks, lessons learned, personal thoughts and funny facts
 # List of links in the navigation bar
 navbar-links:
   About Me: 
-    - Linkedin Profile: "https://www.linkedin.com/in/saverioguardato/"
+    - Who am I: /aboutme.md
+    - Linkedin : "https://www.linkedin.com/in/saverioguardato/"
     - Github: "https://github.com/saguar"
 
 # Image to show in the navigation bar - image must be a square (width = height)
