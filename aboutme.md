@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 5 Things You Should Know About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+1. My name is Saverio Guardato, but I guess you already knew that
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+2. I live in Italy and I am a very proud of my culture and the history of my country (I love ancient Rome)
+![](img/roman_empire.jpg)
 
-What else do you need?
+3. I graduated in Software Engineering and I consider myself a tech lover. I Love soccer (FORZA NAPOLI!), motors (bikes and cars) rock music and beer
+![](img/beer_lover.jpg)
 
-### my history
+4. I work as Application Development Manager for Microsoft and I love my job. I try to put all my passion for technology and business everyday and sometimes I share on this blog experiences from the field and chats about technology
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+5. I am technology addicted and I consider myself a computer EngiNerd =)
