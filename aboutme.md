@@ -4,7 +4,7 @@ title: About me
 subtitle: 5 Things You Should Know About Me
 ---
 
-1. My name is Saverio Guardato, but I guess you already knew that
+1. My name is Saverio Guardato, but I guess you already knew that, and I share my life with Simona
 ![img 0](img/me.jpg)
 
 2. I live in Italy and I am a very proud of my culture and the history of my country (I love ancient Rome)
